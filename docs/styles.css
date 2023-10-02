@@ -193,7 +193,7 @@ nav{
   }
 }
 
-{
-overflow: scroll;
--webkit-overflow-scrolling: touch;
-}
+table {
+    overflow: scroll;
+    display: block;
+  }
