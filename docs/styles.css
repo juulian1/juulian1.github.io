@@ -192,3 +192,8 @@ nav{
     width: 480px ;
   }
 }
+
+{
+overflow: scroll;
+-webkit-overflow-scrolling: touch;
+}
