@@ -171,3 +171,8 @@ nav{
     right:0;
     top:0;
 }
+
+div {
+    font-size: calc((.05em + 2vmin) + (.05em + 2vmax));
+    line-height: 115%;
+}
